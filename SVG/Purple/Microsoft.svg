@@ -1,6 +1,11 @@
-<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0H22.8093V22.8093H0V0Z" fill="#783DBE"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M25.1914 0H48.0007V22.8093H25.1914V0Z" fill="#783DBE"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M0 25.1907H22.8093V47.9999H0V25.1907Z" fill="#783DBE"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M25.1914 25.1907H48.0007V47.9999H25.1914V25.1907Z" fill="#783DBE"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 48 48" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<g id="Untitled">
+<path d="M4.67783 22.9243L4.66361 9.05987L20.2126 6.74262L20.2126 22.9243L4.67783 22.9243M22.8035 6.33035L43.5308 3.02152L43.5308 22.9243L22.8035 22.9243L22.8035 6.33035M43.5344 25.7675L43.534 45.6702L22.8067 42.4716L22.8067 25.7675L43.5376 25.7675M20.2158 42.1091L4.68103 39.7741L4.68103 25.7675L20.2194 25.7675L20.2194 42.1091" fill="#783dbe" fill-rule="evenodd" opacity="1" stroke="none"/>
+</g>
+<g id="Untitled_2"/>
+<g id="Untitled_3"/>
 </svg>
