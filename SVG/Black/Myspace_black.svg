@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 246 246" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<g id="layer1">
+<path d="M205.521 6.96509L40.4958 6.96509C20.8966 6.9651 5.0083 22.8534 5.00829 42.4526L5.00829 207.478C5.0083 227.077 20.8966 242.965 40.4958 242.965L205.521 242.965C225.12 242.965 241.008 227.077 241.008 207.478L241.008 42.4526C241.008 22.8534 225.12 6.9651 205.521 6.96509Z" fill="#D3D3D3" fill-rule="evenodd" opacity="1" stroke="none"/>
+<g opacity="1">
+<path d="M190.001 60.7282C190.001 78.2821 176.462 92.5124 159.76 92.5124C143.058 92.5124 129.519 78.2821 129.519 60.7282C129.519 43.1743 143.058 28.944 159.76 28.944C176.462 28.944 190.001 43.1743 190.001 60.7282Z" fill="#ffffff" fill-rule="evenodd" opacity="1" stroke="none"/>
+<path d="M117.357 211.272L199.651 211.272L199.158 127.007C188.872 88.8477 133.381 84.1879 116.864 126.514C116.864 126.514 117.357 211.272 117.357 211.272Z" fill="#ffffff" fill-rule="evenodd" opacity="1" stroke="none"/>
+<path d="M124.046 61.8162C124.046 74.5858 114.528 84.9375 102.788 84.9375C91.0473 84.9375 81.5298 74.5858 81.5298 61.8162C81.5298 49.0466 91.0473 38.6949 102.788 38.6949C114.528 38.6949 124.046 49.0466 124.046 61.8162Z" fill="#ffffff" fill-rule="evenodd" opacity="1" stroke="none"/>
+<path d="M73.6431 173.78L132.196 173.78L131.846 111.734C124.527 83.6366 85.0443 80.2055 73.2924 111.371C73.2924 111.371 73.6431 173.78 73.6431 173.78Z" fill="#ffffff" fill-rule="evenodd" opacity="1" stroke="none"/>
+<path d="M78.0547 59.6537C78.0547 70.1083 70.763 78.5834 61.7681 78.5834C52.7733 78.5834 45.4816 70.1083 45.4816 59.6537C45.4816 49.1991 52.7733 40.724 61.7681 40.724C70.763 40.724 78.0547 49.1991 78.0547 59.6537Z" fill="#ffffff" fill-rule="evenodd" opacity="1" stroke="none"/>
+<path d="M42.4571 140.557L80.6248 140.557L80.3963 97.3374C75.6258 77.7656 49.889 75.3756 42.2286 97.0846C42.2286 97.0846 42.4571 140.557 42.4571 140.557Z" fill="#ffffff" fill-rule="evenodd" opacity="1" stroke="none"/>
+</g>
+</g>
+</svg>
